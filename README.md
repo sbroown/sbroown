@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there. My name is Sanny. 👋
+
+- 🔭 I’m currently working on Java
+- 🌱 I’m currently learning Javascript
+- 👯 I’m looking to collaborate on C++
+- 📫 How to reach me: The best way to reach me is through 
+[Twitter](https://twitter.com/emloads) or [hashnode.dev](https://snbrown.hashnode.dev)
+
 
 <!--
 **sbroown/sbroown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
